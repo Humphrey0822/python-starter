@@ -1,0 +1,1 @@
+rabbitmq-monitor.py 是小米监控提供的一个采集rabbitmq指标数据并推送到agent的采集脚本。通过访问rabbitmq API链接“http://host:15672/api/queues”拿到指标数据。
